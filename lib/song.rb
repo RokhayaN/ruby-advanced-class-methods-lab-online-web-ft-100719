@@ -18,3 +18,4 @@ song.artist_name = "Tupac Shakur"
 song.save
 Song.all.include?(song)
 
+
